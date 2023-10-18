@@ -31,10 +31,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Issues</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -45,20 +42,20 @@
 <!-- ABOUT THE PROJECT -->
 ## Usage
 
-#### Music
+### Music
 
-Can play music from Youtube, Spotify, SoundClound URLs, or search from Youtube if you don't provide URL.<br>
+Can play music from Youtube, Spotify, SoundClound URLs, or search from Youtube if you don't provide an URL.<br>
 Lots of utilities such as pause, loop, manipulate queue...<br>
 
-#### Manga Tracker
+### Manga Tracker
 
-Help you track mangas updated on [MangaDex](https://mangadex.org/), will ping you on Discord when a manga you are tracking has a new chapter.<br>
+Help you track mangas updated on [MangaDex](https://mangadex.org/), will ping you when a manga you are tracking has a new chapter.<br>
 <br>
 <img src='https://i.imgur.com/ZqSNEgC.png' alt='example'>
 <br>
 
 
-#### Text-to-image
+### Text-to-image
 
 Basically [Craiyon](https://www.craiyon.com/) for Discord. AI will generate 9 images based on your prompt. <br>
 <br>
