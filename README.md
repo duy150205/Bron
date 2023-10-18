@@ -3,8 +3,9 @@
 
 <table style="width:100%" align="center">
   <tr>
-      <td><strong>Language:</strong> Python</td>
-      <td><strong>Library:</strong> discord.py</td>
+    <td><strong>Language:</strong> Python</td>
+    <td><strong>Library:</strong> discord.py</td>
+    <td><a href="https://discord.com/api/oauth2/authorize?client_id=1022172313115955276&permissions=1238293802054&scope=bot">Invite bot to server</a></td>
   </tr>
 </table>
 
