@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  ![](https://i.imgur.com/HhIGBHd.png)
+  <img src='https://i.imgur.com/HhIGBHd.png'>
 
 <h3 align="center">Bron Bot</h3>
 
