@@ -53,10 +53,17 @@ Lots of utilities such as pause, loop, manipulate queue...<br>
 #### Manga Tracker
 
 Help you track mangas updated on [MangaDex](https://mangadex.org/), will ping you on Discord when a manga you are tracking has a new chapter.<br>
+<br>
 <img src='https://i.imgur.com/lu96TPC.png' alt='example'>
 <br>
 
 
+#### Text-to-image
+
+Basically [Craiyon](https://www.craiyon.com/) for Discord. AI will generate 9 images based on your prompt. <br>
+<br>
+<img src='https://i.imgur.com/hQ2KUZ5.png' alt='example'>
+<br>
 
 
 <!-- CONTRIBUTING -->
