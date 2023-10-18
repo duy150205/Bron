@@ -18,14 +18,10 @@
 <h3 align="center">Bron Bot</h3>
 
   <p align="center">
-    A bot that look up the profile of an employee from the game Counter:side
-    <br />
-    <a href="https://github.com/phuyc/nep"><strong>Explore the docs »</strong></a>
+    Multipurpose Discord bot: music, Mangadex manga tracker, text-to-image with DALL-E mini API.
     <br />
     <br />
-    <a href="https://github.com/phuyc/nep/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/phuyc/nep/issues">Request Feature</a>
+    <a href="https://github.com/phuyc/nep/issues">Suggestions</a>
   </p>
 </div>
 
