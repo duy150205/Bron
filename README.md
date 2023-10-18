@@ -49,7 +49,10 @@ Get started by using ```/help```. Bot will provide you with the full command lis
 Play music from Youtube, Spotify, SoundClound URLs, or search from Youtube if you don't input an URL.<br>
 ```/play [keyword or URL]```<br>
 Lots of utilities such as pause music, loop current song, manipulate song queue...<br>
-_For full command list, use ```/help```_
+_For full command list, use ```/help```_<br>
+<br>
+<img src='https://i.imgur.com/6yYkFzS.png' alt='example'>
+<br>
 
 ### Manga Tracker
 
