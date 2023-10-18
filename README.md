@@ -80,6 +80,26 @@ AI will generate 9 images based on your prompt, with 1 of 4 styles: normal, art,
 <br>
 
 
+<!-- INSTALLING / SELF-HOSTING -->
+## Installing / Self Hosting
+
+#### API Keys
+Discord Bot Token - https://discord.com/developers<br>
+Spotify (optional) - https://developer.spotify.com/dashboard/<br>
+• Client ID<br>
+• Client Secre<br>
+Enter all keys/tokens into ```bot_token.py```
+
+#### Requirements
+Python 3.10+<br>
+Dependancies:<br>
+```pip install -r requirements.txt```<br>
+
+# Hosting 
+1. Download repository zip<br>
+2. Complete all installations<br>
+3. Start ```main.py``` in project root<br>
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
