@@ -33,8 +33,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#usage">Usage</a></li>
+    <a href="#music">Music</a>
+    <li><a href="#contact">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
