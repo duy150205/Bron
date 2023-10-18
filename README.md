@@ -33,9 +33,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#usage">Usage</a></li>
-    <a href="#music">Music</a>
-    <a href="#music">Music</a>
-    <a href="#music">Music</a>
+    • <a href="#music">Music</a><br>
+    • <a href="#manga tracker">Manga Tracker</a><br>
+    • <a href="#text-to-image">Text-to-image</a><br>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
