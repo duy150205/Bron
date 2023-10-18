@@ -19,8 +19,6 @@
   <p align="center">
     Multipurpose Discord bot: music, Mangadex manga tracker, text-to-image with DALL-E mini API.
     <br />
-    <br />
-    <a href="https://github.com/duy150205/Bron/issues">Suggestions</a>
   </p>
 </div>
 
