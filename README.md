@@ -53,8 +53,8 @@ _For full command list, use ```/help```_
 ### Manga Tracker
 
 Help you track mangas updated on [MangaDex](https://mangadex.org/), will ping you when a manga you are tracking has a new chapter.<br>
-Start tracking a manga with ```/manga search [name]``` (pick the manga to track from list searched from MangaDex)<br>
-Stop tracking a manga with ```/manga tracklist``` (pick the manga to untrack from current tracklist)<br>
+Track a manga with ```/manga search [name]``` (pick the manga to track from list searched from MangaDex)<br>
+Untrack a manga with ```/manga tracklist``` (pick the manga to untrack from current tracklist)<br>
 <br>
 <img src='https://i.imgur.com/ZqSNEgC.png' alt='example'>
 <br>
@@ -62,12 +62,12 @@ Stop tracking a manga with ```/manga tracklist``` (pick the manga to untrack fro
 
 ### Text-to-image
 
-Basically [Craiyon](https://www.craiyon.com/) for Discord. <br>
-AI will generate 9 images based on your prompt, with 1 of 4 styles: normal, art, drawing, photo <br>
-```/ai image [prompt]```
-```/ai art [promp]```
-```/ai drawing [prompt]```
-```/ai photo [prompt]```
+Provide [Craiyon](https://www.craiyon.com/)'s service on Discord. <br>
+AI will generate 9 images based on your prompt, with 1 of 4 styles: normal, art, drawing, photo. <br>
+```/ai image [prompt]```<br>
+```/ai art [promp]```<br>
+```/ai drawing [prompt]```<br>
+```/ai photo [prompt]```<br>
 <br>
 <img src='https://i.imgur.com/hQ2KUZ5.png' alt='example'>
 <br>
