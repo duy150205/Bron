@@ -12,10 +12,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/phuyc/nep">
-    <img src="https://nitter.net/pic/media%2FFQ2RsUGXEAAmra3.jpg%3Fname%3Dsmall" alt="Logo" width="120" height="120">
+    <img src="[https://nitter.net/pic/media%2FFQ2RsUGXEAAmra3.jpg%3Fname%3Dsmall](https://cdn.discordapp.com/avatars/1026426435063271444/34747940381d7cbe259c06bc984e3cc4.png?size=2048)" alt="Logo" width="120" height="120">
   </a>
 
-<h3 align="center">Nep Bot</h3>
+<h3 align="center">Bron Bot</h3>
 
   <p align="center">
     A bot that look up the profile of an employee from the game Counter:side
