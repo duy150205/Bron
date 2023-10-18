@@ -41,11 +41,14 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Usage
+Get started by using ```/help```. Bot will provide you with the full command list with usage for each one.
 
 ### Music
 
-Can play music from Youtube, Spotify, SoundClound URLs, or search from Youtube if you don't provide an URL.<br>
-Lots of utilities such as pause, loop, manipulate queue...<br>
+Play music from Youtube, Spotify, SoundClound URLs, or search from Youtube if you don't input an URL.
+```/play [URL / keyword]```
+Lots of utilities such as pause music, loop current song, manipulate song queue...<br>
+_For full command list, use /help
 
 ### Manga Tracker
 
