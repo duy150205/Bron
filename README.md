@@ -30,13 +30,13 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary><strong>Table of Contents</strong></summary>
   <ol>
     <li><a href="#usage">Usage</a></li>
     • <a href="#music">Music</a><br>
     • <a href="#manga-tracker">Manga Tracker</a><br>
     • <a href="#text-to-image">Text-to-image</a><br>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#usage">Installing / Self Hosting</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
