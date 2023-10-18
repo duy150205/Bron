@@ -53,7 +53,8 @@ Lots of utilities such as pause, loop, manipulate queue...<br>
 #### Manga Tracker
 
 Help you track mangas updated on [MangaDex](https://mangadex.org/), will ping you on Discord when a manga you are tracking has a new chapter.<br>
-<img src='https://imgur.com/lu96TPC' alt='example'><br>
+<img src='images/example.jpg' alt='example'>
+<br>
 
 
 
@@ -79,7 +80,7 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 Discord: aaadidos
-Email: lhphuc70@gmail.com
+Email: duy.ngbh@gmail.com
 
 Project Link: [https://github.com/phuyc/nep](https://github.com/phuyc/nep)
 
