@@ -91,7 +91,7 @@ Python 3.10+<br>
 Dependancies:<br>
 ```pip install -r requirements.txt```<br>
 
-# Hosting 
+#### Hosting 
 1. Download repository zip<br>
 2. Complete all installations<br>
 3. Start ```main.py``` in project root<br>
