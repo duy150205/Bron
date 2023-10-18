@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/phuyc/nep">
+  <a>
     <img src="https://cdn.discordapp.com/avatars/1026426435063271444/34747940381d7cbe259c06bc984e3cc4.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -31,9 +31,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Issues</a></li>
     <li><a href="#license">License</a></li>
@@ -45,29 +43,17 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-Basically my cs50 final project but I might optimized and maintain it in the future.
-
-#### Permissions
-
-<strong>Read Messages (required)</strong>: Allows bot to read messages to find those with prefix.<br>
-<strong>Send Messages (required)</strong>: Allows bot to reply to said messages.<br>
-<strong>Embed links (required)</strong>: Most of the commands send an embed. I guess you can turn it off and only use p!ping. <br>
-<strong>Send Messages in Threads</strong>: Allows bot to reply to said messages (surprised surprised) in threads. Can disable but it will not work in threads.<br>
-<strong>Use External Emoji</strong>: Self-explained. the embeds will just look uglier if you disable this.<br>
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
-you can invite the bot to your server by the link below:
-[Invite the bot to your server](https://discord.com/api/oauth2/authorize?client_id=977387486655414412&permissions=274878254080&scope=bot)
+#### Music
 
-type p!p (employee's name) to get his/her information, ratings, skills and gear recommendations. Add <strong>a.</strong> and <strong>r.</strong> for Awakened and Rearms employees respectively. Example:
-<br>
-<img src='images/example.jpg' alt='example'>
-<br>
-_For more information, please invite the bot to your server and text p!help._
+Can play music from Youtube, Spotify, SoundClound URLs, or search from Youtube if you don't provide URL.<br>
+Lots of utilities such as pause, loop, manipulate queue...<br>
+
+#### Manga Tracker
+
+Help you track mangas updated on [MangaDex](https://mangadex.org/), will ping you on Discord when a manga you are tracking has a new chapter.<br>
+<img src='https://imgur.com/lu96TPC' alt='example'><br>
 
 
 
