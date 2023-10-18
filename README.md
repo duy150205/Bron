@@ -46,7 +46,7 @@ Get started by using ```/help```. Bot will provide you with the full command lis
 ### Music
 
 Play music from Youtube, Spotify, SoundClound URLs, or search from Youtube if you don't input an URL.<br>
-```/play [URL / keyword]```<br>
+```/play [keyword or URL]```<br>
 Lots of utilities such as pause music, loop current song, manipulate song queue...<br>
 _For full command list, use ```/help```_
 
@@ -62,7 +62,12 @@ Stop tracking a manga with ```/manga tracklist``` (pick the manga to untrack fro
 
 ### Text-to-image
 
-Basically [Craiyon](https://www.craiyon.com/) for Discord. AI will generate 9 images based on your prompt. <br>
+Basically [Craiyon](https://www.craiyon.com/) for Discord. <br>
+AI will generate 9 images based on your prompt, with 1 of 4 styles: normal, art, drawing, photo <br>
+```/ai image [prompt]```
+```/ai art [promp]```
+```/ai drawing [prompt]```
+```/ai photo [prompt]```
 <br>
 <img src='https://i.imgur.com/hQ2KUZ5.png' alt='example'>
 <br>
