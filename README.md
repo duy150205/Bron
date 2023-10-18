@@ -21,7 +21,7 @@
     Multipurpose Discord bot: music, Mangadex manga tracker, text-to-image with DALL-E mini API.
     <br />
     <br />
-    <a href="https://github.com/phuyc/nep/issues">Suggestions</a>
+    <a href="https://github.com/duy150205/Bron/issues">Suggestions</a>
   </p>
 </div>
 
@@ -71,12 +71,6 @@ _For more information, please invite the bot to your server and text p!help._
 
 
 
-<!-- Issues -->
-## Issues
-
-See the [open issues](https://github.com/phuyc/nep/issues) for a full list of known issues (and proposed features).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -94,26 +88,17 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
 
-nepnep - nepnep#1358 - lhphuc70@gmail.com
+Discord: aaadidos
+Email: lhphuc70@gmail.com
 
 Project Link: [https://github.com/phuyc/nep](https://github.com/phuyc/nep)
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-* [Best README Template](https://github.com/othneildrew/Best-README-Template)
-* [Provide data](https://prydwen.co)
-* Inspired by [Hifumin Bot](https://discord.com/api/oauth2/authorize?client_id=844127991852302386&permissions=2147870784&scope=bot%20applications.commands)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 
 
