@@ -34,7 +34,9 @@
   <ol>
     <li><a href="#usage">Usage</a></li>
     <a href="#music">Music</a>
-    <li><a href="#contact">Contributing</a></li>
+    <a href="#music">Music</a>
+    <a href="#music">Music</a>
+    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
