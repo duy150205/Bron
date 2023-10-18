@@ -54,7 +54,7 @@ Lots of utilities such as pause, loop, manipulate queue...<br>
 
 Help you track mangas updated on [MangaDex](https://mangadex.org/), will ping you on Discord when a manga you are tracking has a new chapter.<br>
 <br>
-<img src='https://i.imgur.com/lu96TPC.png' alt='example'>
+<img src='https://i.imgur.com/ZqSNEgC.png' alt='example'>
 <br>
 
 
