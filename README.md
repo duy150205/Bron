@@ -45,9 +45,9 @@ Get started by using ```/help```. Bot will provide you with the full command lis
 
 ### Music
 
-Play music from Youtube, Spotify, SoundClound URLs, or search from Youtube if you don't input an URL.<br>
+• Play music from Youtube, Spotify, SoundClound URLs, or search from Youtube if you don't input an URL.<br>
 ```/play [keyword or URL]```<br>
-Lots of utilities such as pause music, loop current song, manipulate song queue...<br>
+• Lots of utilities such as pause music, loop current song, manipulate song queue...<br>
 _For full command list, use ```/help```_<br>
 <br>
 <img src='https://i.imgur.com/6yYkFzS.png' alt='example'>
@@ -56,8 +56,8 @@ _For full command list, use ```/help```_<br>
 ### Manga Tracker
 
 Help you track mangas updated on [MangaDex](https://mangadex.org/), will ping you when a manga you are tracking has a new chapter.<br>
-Track a manga with ```/manga search [name]``` (pick a manga to track from manga list searched from MangaDex)<br>
-Untrack a manga with ```/manga tracklist``` (pick a manga to untrack from current tracklist)<br>
+•Track a manga with ```/manga search [name]``` (pick a manga to track from manga list searched from MangaDex)<br>
+•Untrack a manga with ```/manga tracklist``` (pick a manga to untrack from current tracklist)<br>
 <br>
 <img src='https://i.imgur.com/ZqSNEgC.png' alt='example'>
 <br>
