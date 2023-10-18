@@ -83,10 +83,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Discord: aaadidos
-Email: duy.ngbh@gmail.com
-
-Project Link: [https://github.com/phuyc/nep](https://github.com/phuyc/nep)
+Discord: aaadidos <br>
+Email: duy.ngbh@gmail.com<br>
 
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
