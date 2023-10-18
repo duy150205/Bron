@@ -12,9 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a>
-    <img src="https://cdn.discordapp.com/avatars/1026426435063271444/34747940381d7cbe259c06bc984e3cc4.png" alt="Logo" width="120" height="120">
-  </a>
+  ![](https://i.imgur.com/HhIGBHd.png)
 
 <h3 align="center">Bron Bot</h3>
 
@@ -36,7 +34,7 @@
     • <a href="#music">Music</a><br>
     • <a href="#manga-tracker">Manga Tracker</a><br>
     • <a href="#text-to-image">Text-to-image</a><br>
-    <li><a href="#usage">Installing / Self Hosting</a></li>
+    <li><a href="#installing--self-hosting">Installing / Self Hosting</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
