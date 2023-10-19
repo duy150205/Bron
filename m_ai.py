@@ -8,7 +8,6 @@ class Craiyon:
         self.model_version = model_version
         self.api_token = api_token
 
-    # Generate images with v3
     def generate(self, prompt: str, negative_prompt: str = "", model_type: str = "none"):
 
         url = self.BASE_URL + self.DRAW_API_ENDPOINT
