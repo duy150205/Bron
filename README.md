@@ -55,7 +55,7 @@ _For full command list, use ```/help```_<br>
 
 ### Manga Tracker
 
-Help you track mangas updated on [MangaDex](https://mangadex.org/), will ping you when a manga you are tracking has a new chapter.<br>
+Help you track manga updates on [MangaDex](https://mangadex.org/), will ping you when a manga you are tracking has a new chapter.<br>
 • Track a manga with ```/manga search [name]``` (pick a manga to track from manga list searched from MangaDex)<br>
 • Untrack a manga with ```/manga tracklist``` (pick a manga to untrack from current tracklist)<br>
 <br>
