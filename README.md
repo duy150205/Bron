@@ -68,7 +68,7 @@ Help you track manga updates on [MangaDex](https://mangadex.org/), will ping you
 Provide [Craiyon](https://www.craiyon.com/)'s service on Discord. <br>
 AI will generate 9 images based on your prompt, with 1 of 4 styles: normal, art, drawing, photo. <br>
 ```/ai image [prompt]```<br>
-```/ai art [promp]```<br>
+```/ai art [prompt]```<br>
 ```/ai drawing [prompt]```<br>
 ```/ai photo [prompt]```<br>
 <br>
